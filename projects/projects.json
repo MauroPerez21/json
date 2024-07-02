@@ -1,50 +1,42 @@
+
 [
-    {"id": "1",
-    "project":"sqlite essentials",
-    "url":"https://live.staticflickr.com/65535/52693092418_2e86d1516a_m.jpg",
-    "desc":"sqlite sentences in Command Line Interface (CLI)",
-    "price":"free",
-    "available":"yes",
-    "date":"2022-12-03"
-},
-{"id": "2",
-    "project":"mongoDB essentials",
-    "url":"https://live.staticflickr.com/65535/52692613376_e145f4d72b_m.jpg",
-    "desc":"mongoDB sentences in Command Line Interface (CLI)",
-    "price":"free",
-    "available":"yes",
-    "date":"2022-12-16"
-},
-{"id": "3",
-    "project":"Store data in sqlite 3 with PHP",
-    "url":"https://live.staticflickr.com/65535/51834965973_fab682f0ed_m.jpg",
-    "desc":"basics in PHP object oriented programming and methods",
-    "price":"100",
-    "available":"yes",
-    "date":"2023-01-05"
-},
-{"id": "4",
-    "project":"Store data in mongoDB with PHP",
-    "url":"https://live.staticflickr.com/65535/51834965293_75a65fdb22_z.jpg",
-    "desc":"MongoDB and PHP object oriented programming and methods, sponsored by Atlas",
-    "price":"300",
-    "available":"yes",
-    "date":"2023-01-20"
-},
-{"id": "5",
-    "project":"Javascript",
-    "url":"https://live.staticflickr.com/65535/51834968168_ca21ce0052_m.jpg",
-    "desc":"Learn Javascript from scratch",
-    "price":"250",
-    "available":"yes",
-    "date":"2023-01-25"
-},
-{"id": "6",
-    "project":"Mastering CSS",
-    "url":"https://live.staticflickr.com/65535/52692090632_566a5f80e6_m.jpg",
-    "desc":"Learn CSS to make wonderful designs, sponsored by Codegrid",
-    "price":"100",
-    "available":"yes",
-    "date":"05 October 2011 14:48 UTC"
-}
+    {
+        "nombre": "matematicas1",
+        "descripcion": "fundamentos de algebra y trigonometria",
+        "duración": "8 semanas",
+        "precio": "300000",
+        "fecha_ini":"12-08-2024",
+        "docente":{
+            "nombre": "andrea monsalve",
+            "documento": "10125587",
+            "correo": "andrea.monsQgmail.com"
+           
+        }
+    },
+    {
+        "nombre": "algoritmos1",
+        "descripcion": "fundamentos de algebra booleana",
+        "duración": "8 semanas",
+        "precio": "300000",
+        "fecha_ini":"12-16-2024",
+        "docente":{
+            "nombre": "andres cuervo",
+            "documento": "1875587",
+            "correo": "andres.cuervoQgmail.com"
+           
+        }
+    },
+    {
+        "nombre": "logica proposicional",
+        "descripcion": "pensamiento y razonamiento con enfasis en lenguaje escrito",
+        "duración": "16 semanas",
+        "precio": "600000",
+        "fecha_ini":"12-01-2024",
+        "docente":{
+            "nombre": "ferney ocampo",
+            "documento": "16558844",
+            "correo": "ferney.ocampoQgmail.com"
+           
+        }
+    }
 ]
